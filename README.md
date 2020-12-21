@@ -7,7 +7,7 @@
 
 🌱 💬 Ask me about Life
 
-🌱 📫 How to reach me: 
+🌱 📫 Reach  me on discord: Allusive#0370
 
 🌱 ⚡ Fun fact: I like C++
 
