@@ -1,15 +1,13 @@
 ### Hi there 👋
 🔭 I’m currently working on Learing how to hack games with C++
 
-🌱 I’m currently learning Python,JS,CSS,React
+I’m currently learning Java,Python,JS
 
-🌱 🤔 I’m looking for help with C++
+🤔 I’m looking for help with C++
 
-🌱 💬 Ask me about Life
+💬 Ask me about Life
 
-🌱 📫 Reach  me on discord: Allusive#0370
-
-🌱 ⚡ Fun fact: I like C++
+📫 Reach  me on discord: Allusive#0370
 
 
 <a href="https://github.com/sabesansathananthan">
