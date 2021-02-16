@@ -11,7 +11,7 @@
 
 - 📫 Reach me on **discord: Allusive#0370**
 
-- ⚡ Fun fact **I hate fun facts**
+- ⚡ Fun fact **C++ is easy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
