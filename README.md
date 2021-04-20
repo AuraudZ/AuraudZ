@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Allusive</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allusivewheat&label=Profile%20views&color=0e75b6&style=flat" alt="allusivewheat" /> </p>
 
-- 🔭 I’m currently working on **Learning reactjs electron and typescript**
+- 🔭 I’m currently working on **C++ projects and React**
 
-- 🌱 I’m currently learning **Java,C,C++,Python**
+- 🌱 I’m currently learning **Java,Typescript,C++,Python**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
-- 🤝 I’m looking for help with **C++**
+- 🤝 I’m looking for help with **Graphql, React, Typescript**
 
-- ⚡ Fun fact **C++ is easy**
+- ⚡ Fun fact **JSX is great**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
