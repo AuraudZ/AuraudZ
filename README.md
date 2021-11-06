@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Allusive</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allusivewheat&label=Profile%20views&color=0e75b6&style=flat" alt="allusivewheat" /> </p>
 
-- 🔭 I’m currently working on **Learning Lua**
+- 🔭 I’m currently working on **Learning GO & Rust**
 
 - 👯 I’m looking to collaborate on **Java Projects**
 
