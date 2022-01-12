@@ -3,9 +3,13 @@
 
 Front End Devolper 
  <li>
- -React
- -Svelte
- -Tailwind CSS
+ React
+ </li>
+ <li>
+ Svelte
+ </li>
+ <li>
+ Tailwind CSS
  </li>
  
 
