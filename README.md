@@ -2,9 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allusivewheat&label=Profile%20views&color=0e75b6&style=flat" alt="allusivewheat" /> </p>
 
 Front End Devolper 
+ <li>
  -React
  -Svelte
  -Tailwind CSS
+ </li>
  
 
 <h3 align="left">Connect with me:</h3>
