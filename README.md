@@ -8,9 +8,6 @@ Front End Developer
  <li>
  Svelte
  </li>
- <li>
- Tailwind CSS
- </li>
  
 
 <h3 align="left">Connect with me:</h3>
