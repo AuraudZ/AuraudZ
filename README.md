@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Allusive</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allusivewheat&label=Profile%20views&color=0e75b6&style=flat" alt="allusivewheat" /> </p>
 
+[![wakatime](https://wakatime.com/badge/user/28c25413-26dd-4fef-bdfd-86a667d37896.svg)](https://wakatime.com/@28c25413-26dd-4fef-bdfd-86a667d37896)
+
 Front End Developer 
  <li>
  React
