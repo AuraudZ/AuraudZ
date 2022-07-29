@@ -6,9 +6,14 @@ Front End Developer
  React
  </li>
  <li>
- Svelte
+ React Native
  </li>
- 
+ <li>
+ GraphQL
+ </li>
+ <li>
+ Typescript
+ </li>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
