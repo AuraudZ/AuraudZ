@@ -1,7 +1,7 @@
 
 
 <h1>
-Front End Developer 
+Full Stack Developer 
  </h1>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=allusivewheat&label=Profile%20views&color=0e75b6&style=flat" alt="allusivewheat" /> </p>
 <a href="https://wakatime.com/@28c25413-26dd-4fef-bdfd-86a667d37896"><img src="https://wakatime.com/badge/user/28c25413-26dd-4fef-bdfd-86a667d37896.svg" alt="Total time coded since Jul 28 2022" /></a>
